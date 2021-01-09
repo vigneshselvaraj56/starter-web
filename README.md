@@ -12,6 +12,7 @@ And to understand the diff tools from current directory and staging directory
 
 Sample website with plenty of files for demos
 
+Test automatic updates
 ## How To Contribute 
 
 Contribute for this demo by making changes to this file
